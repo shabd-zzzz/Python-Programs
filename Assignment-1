@@ -1,0 +1,26 @@
+#LIST
+l=["Shabd","Aarush","Aamir"]
+print("Original List:",l)
+
+l.append("Subhang")
+print("After Adding:",l)
+
+l[1]="Rohan"
+print("Updated list:",l)
+
+#TUPLE
+t=("Shabd","Aarush","Aamir")
+print("Original Tuple:",t)
+
+print("First Student",t[0])
+print("Aarush count:",t.count("Aarush"))
+
+#DICTIONARY
+d={1:"Shabd",2:"Aarush",3:"Aamir"}
+print("Origial dictionary:",d)
+
+d[4]="Subhang"
+print("Added dictionary:",d)
+
+d[2]="Vaibhav"
+print("Updated dictionary:",d)
