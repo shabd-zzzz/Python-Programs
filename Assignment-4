@@ -10,5 +10,5 @@ print(m1)
 print("Matrix 2:")
 print(m2)
 
-print("\nAddition of two matrices:")
+print("Addition of two matrices:")
 print(m3)
